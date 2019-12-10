@@ -6,6 +6,7 @@
 }
 
 header {
+    background-color: #000;
     background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.5)), to(rgba(0, 0, 0, 0.7))), url(Screenshot_2019-03-07-18-37-52-407_com.miui.home.png);
     background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.7)), url(Screenshot_2019-03-07-18-37-52-407_com.miui.home.png);
     background-size: cover;
