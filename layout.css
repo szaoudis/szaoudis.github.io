@@ -1,0 +1,28 @@
+header {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.7)), url(Screenshot_2019-03-07-18-37-52-407_com.miui.home.png);
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
+
+header ul {
+    list-style: none;
+}
+
+header li a:link,
+header li a:visited {
+    display: block;
+    text-decoration: none;
+    border: 0;
+    font-size: 500%;
+    text-align: center;
+    color: aqua;
+    padding: 100px;
+    transition: font-size 0.5s, color 0.5s;
+}
+
+header li a:hover,
+header li a:active {
+    color: aquamarine;
+    font-size: 550%;
+}
